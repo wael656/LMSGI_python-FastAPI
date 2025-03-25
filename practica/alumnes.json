@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nom": "Joan",
+        "cognom": "Garcia",
+        "dia_naixement": 10,
+        "mes_naixement": 3,
+        "any_naixement": 2000,
+        "email": "joan.garcia@gmial.com",
+        "feina": false,
+        "curs": "1r"
+    },
+    {
+        "id": 2,
+        "nom": "Maria",
+        "cognom": "Lopez",
+        "dia_naixement": 5,
+        "mes_naixement": 7,
+        "any_naixement": 2001,
+        "email": "maria.lopez@gmail.com",
+        "feina": false,
+        "curs": "2n"
+    },
+    {
+        "id": 3,
+        "nom": "Carlos",
+        "cognom": "Martínez",
+        "dia_naixement": 12,
+        "mes_naixement": 5,
+        "any_naixement": 2002,
+        "email": "carlos.martinez@gmail.com",
+        "feina": true,
+        "curs": "3r"
+    },
+    {
+        "id": 4,
+        "nom": "Laura",
+        "cognom": "Sánchez",
+        "dia_naixement": 23,
+        "mes_naixement": 8,
+        "any_naixement": 1999,
+        "email": "laura.sanchez@gmail.com",
+        "feina": true,
+        "curs": "4t"
+    },
+    {
+        "id": 5,
+        "nom": "Pablo",
+        "cognom": "Fernández",
+        "dia_naixement": 14,
+        "mes_naixement": 11,
+        "any_naixement": 2000,
+        "email": "pablo.fernandez@gmail.com",
+        "feina": false,
+        "curs": "1r"
+    }
+]
